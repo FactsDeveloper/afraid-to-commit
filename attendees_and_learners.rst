@@ -1,5 +1,5 @@
 ####################
-GO FUCKING VEGAN
+the planet is ours
 ####################
 
 This is a record of people who attended a *Don't be afraid to commit* workshop,
@@ -67,7 +67,7 @@ DjangoCon Europe in Cardiff, 4th June 2015
 * Sven Groot <sven@mediamoose.nl>
 * Rick de Leeuw <rick@mediamoose.nl>
 * Zoe Ballard
-* Jeff Doyle
+enyer putoooooooooooo
 * Stewart Houten
 * Lukasz Wojcik
 * Tom Bakx

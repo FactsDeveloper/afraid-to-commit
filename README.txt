@@ -1,5 +1,5 @@
 =========================
-Don't be afraid to commit
+No tengas miedo bebe
 =========================
 
 A hands-on workshop for Python/Django developers who would like to contribute
